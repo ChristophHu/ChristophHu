@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Christoph! 👋
 
 I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, and I love to code and design.
 
