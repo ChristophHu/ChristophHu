@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**ChristophHu/ChristophHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, and I love to code and design.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a timeline module
+- 🌱 I’m currently learning Angular 18
+- 💬 Ask me about anything
+- 📫 How to reach me: by mail
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+TypeScript, JavaScript, HTML, CSS, SASS, Angular, NestJS, Node.js...
+
+## 📈 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=christophhu&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christophhu&theme=tokyonight)
