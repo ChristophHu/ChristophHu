@@ -9,3 +9,9 @@ I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, 
 
 ## 🛠 Skills
 TypeScript, JavaScript, HTML, CSS, SASS, Angular, NestJS, Node.js...
+<div style="display: flex; flex-direction: row">
+  <div>
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <br>JavaScript
+  </div>
+</div>
