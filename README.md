@@ -9,6 +9,9 @@ I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, 
 
 ## 🛠 Skills
 TypeScript, JavaScript, HTML, CSS, SASS, Angular, NestJS, Node.js...
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+
 <table align="center">
   <tr>
     <td align="center" width="96">
