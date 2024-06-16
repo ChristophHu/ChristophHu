@@ -11,7 +11,23 @@ I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, 
 TypeScript, JavaScript, HTML, CSS, SASS, Angular, NestJS, Node.js...
 <div style="display: flex; flex-direction: row">
   <div>
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+    <br>TypeScript
+  </div>
+  <div>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
     <br>JavaScript
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <br>HTML5
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+    <br>CSS
+  </div>
+  <div>
+    <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+    <br>Sass
   </div>
 </div>
