@@ -9,9 +9,3 @@ I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, 
 
 ## 🛠 Skills
 TypeScript, JavaScript, HTML, CSS, SASS, Angular, NestJS, Node.js...
-
-## 📈 My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=christophhu&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christophhu&theme=tokyonight)
