@@ -9,5 +9,5 @@ I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, 
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,angular,nodejs,nestjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,docker,npm,nginx,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,git,docker,nginx,discord)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
