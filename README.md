@@ -1,6 +1,6 @@
 # Hello, I'm Christoph! 👋
 
-I'm a data scientist from Berlin. I have rich experience in Angular and NestJS, and I love to code and design.
+I'm a developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
 
 - 🔭 I’m currently working on an angular timeline module
 - 🌱 I’m currently learning Angular 18
