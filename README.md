@@ -31,8 +31,10 @@ I'm a developer and data scientist from Berlin. I have rich experience in Angula
   <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white">
 </p>
 
-## Tools & Frameworks
+## Used Tools & Frameworks
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+
   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-134881.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=black">
