@@ -8,9 +8,7 @@ I'm a developer and data scientist from Berlin. I have rich experience in Angula
 - 📫 How to reach me: by mail
 
 ## Languages  
-<p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height:48px;width:48px;" />
-  
+<p align="left"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,8 +31,6 @@ I'm a developer and data scientist from Berlin. I have rich experience in Angula
 
 ## Used Tools & Frameworks
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-
   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-134881.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=black">
