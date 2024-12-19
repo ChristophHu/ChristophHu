@@ -7,6 +7,9 @@ I'm a developer and data scientist from Berlin. I have rich experience in Angula
 - 💬 Ask me about anything
 - 📫 How to reach me: by mail
 
+Actual Projekt
+![NGX-Calendar](https://github.com/ChristophHu/ChristophHu/assets/img/ngx-calendar.png)
+
 ## Languages  
 <p align="left"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
