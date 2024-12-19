@@ -8,7 +8,7 @@ I'm a developer and data scientist from Berlin. I have rich experience in Angula
 - 📫 How to reach me: by mail
 
 Actual Projekt
-![NGX-Calendar](https://github.com/ChristophHu/ChristophHu/assets/img/ngx-calendar.png)
+![NGX-Calendar](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)
 
 ## Languages  
 <p align="left"> 
