@@ -8,19 +8,10 @@ I'm the CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 - 📫 How to reach me: by mail
 
 ## Actual Projekt
-<div class="gallery gallery-cols-3">
-    <figure>
-        <img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" alt="Image 1">
-        <figcaption>Image 1</figcaption>
-    </figure>
-    <figure>
-        <a href="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" alt="Image 2">
-        <figcaption>Image 2</figcaption></a>
-    </figure>
-    <figure>
-        <img src="http://example.com/image3.jpg" alt="">
-    </figure>
-</div>
+### NGX-Calendar
+<img align="right" src="https://picsum.photos/300/200" alt="image" />
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five 
+centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 [NGX-Calendar](https://github.com/nxt-codes/ngx-calendar)
 ![NGX-Calendar](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)
