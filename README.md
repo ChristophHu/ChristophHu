@@ -50,9 +50,10 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/node_js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/outline-000000.svg?style=for-the-badge&logo=outline&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/reactivex-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/outline-000000?style=for-the-badge&logo=outline&logoColor=white&labelColor=000000&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/reactivex-000000?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=B7178C&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=swagger&logoColor=white&labelColor=85EA2D&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white&labelColor=FABD14&color=000000">
 </p>
 
 ### Blockchain
