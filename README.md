@@ -9,7 +9,7 @@ I'm the CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 
 ## Actual Projekt
 ### NGX-Calendar
-<a href="https://github.com/nxt-codes/ngx-calendar"><img align="right" src="[https://picsum.photos/300/200](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)" width="300" alt="image" /></a>
+<a href="https://github.com/nxt-codes/ngx-calendar"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" width="300" alt="image" /></a>
 This Library is a simple calendar component that can be used in any angular project. It is a simple calendar component that can be used to display the calendar of any month and year. It also has the ability to select a date and highlight it. The selected date can be used to perform any action like displaying the events of that date or any other action.
 
 ## Languages  
