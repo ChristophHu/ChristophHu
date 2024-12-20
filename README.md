@@ -71,3 +71,10 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/openmediavault-5DACDF.svg?style=for-the-badge&logo=openmediavault&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white">
 </p>
+
+## Github
+<p align="center">
+  <img style="float: left; height:130px" src="https://github-readme-stats.vercel.app/api?username=christophhu&show_icons=true&theme=dark&hide_title=true" />
+  &nbsp;
+  <img style="float: right; height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophhu&layout=compact&theme=dark&hide_title=true" />
+</p>
