@@ -9,12 +9,8 @@ I'm the CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 
 ## Actual Projekt
 ### NGX-Calendar
-<img align="right" src="https://picsum.photos/300/200" alt="image" />
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five 
-centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-[NGX-Calendar](https://github.com/nxt-codes/ngx-calendar)
-![NGX-Calendar](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)
+<a href="https://github.com/nxt-codes/ngx-calendar"><img align="right" src="[https://picsum.photos/300/200](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)" width="300" alt="image" /></a>
+This Library is a simple calendar component that can be used in any angular project. It is a simple calendar component that can be used to display the calendar of any month and year. It also has the ability to select a date and highlight it. The selected date can be used to perform any action like displaying the events of that date or any other action.
 
 ## Languages  
 <p align="left"> 
