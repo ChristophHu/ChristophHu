@@ -10,11 +10,11 @@ I'm the CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 ## Actual Projekt
 <div class="gallery gallery-cols-3">
     <figure>
-        <img src="[http://example.com/image1.jpg](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)" alt="Image 1">
+        <img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" alt="Image 1">
         <figcaption>Image 1</figcaption>
     </figure>
     <figure>
-        <a href=["http://example.com/image2_big.jpg](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)"><img src="[http://example.com/image2.jpg](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)" alt="Image 2">
+        <a href="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" alt="Image 2">
         <figcaption>Image 2</figcaption></a>
     </figure>
     <figure>
