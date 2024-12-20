@@ -1,13 +1,28 @@
 # Hello, I'm Christoph! 👋
 
-I'm a developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
+I'm the CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
 
 - 🔭 I’m currently working on an angular timeline module
 - 🌱 I’m currently learning Angular 18
 - 💬 Ask me about anything
 - 📫 How to reach me: by mail
 
-Actual Projekt [NGX-Calendar](https://github.com/nxt-codes/ngx-calendar)
+## Actual Projekt
+<div class="gallery gallery-cols-3">
+    <figure>
+        <img src="http://example.com/image1.jpg" alt="Image 1">
+        <figcaption>Image 1</figcaption>
+    </figure>
+    <figure>
+        <a href="http://example.com/image2_big.jpg"><img src="http://example.com/image2.jpg" alt="Image 2">
+        <figcaption>Image 2</figcaption></a>
+    </figure>
+    <figure>
+        <img src="http://example.com/image3.jpg" alt="">
+    </figure>
+</div>
+
+[NGX-Calendar](https://github.com/nxt-codes/ngx-calendar)
 ![NGX-Calendar](https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png)
 
 ## Languages  
