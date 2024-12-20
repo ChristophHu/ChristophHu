@@ -2,17 +2,13 @@
 
 I'm the CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
 
-- 🔭 I’m currently working on an angular timeline module
-- 🌱 I’m currently learning Angular 18
-- 💬 Ask me about anything
-- 📫 How to reach me: by mail
-
-## Actual Projekt
+## Actual Projekts
 ### NGX-Calendar
 <a href="https://github.com/nxt-codes/ngx-calendar"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" width="300" alt="image" /></a>
 This Library is a simple calendar component that can be used in any angular project. It is a simple calendar component that can be used to display the calendar of any month and year. It also has the ability to select a date and highlight it. The selected date can be used to perform any action like displaying the events of that date or any other action.
 
-## Languages  
+## Skills
+### Languages  
 <p align="left"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,7 +22,7 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
 </p>
 
-## OS
+### OS
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/elementary-64BAFF.svg?style=for-the-badge&logo=elementary&logoColor=white">
@@ -34,7 +30,7 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white">
 </p>
 
-## Used Tools & Frameworks
+### Used Tools & Frameworks
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=red">
   <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-134881.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white">
@@ -59,14 +55,14 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black">
 </p>
 
-## Blockchain
+### Blockchain
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/algorand-000000.svg?style=for-the-badge&logo=algorand&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/polkadot-E6007A.svg?style=for-the-badge&logo=polkadot&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/solana-9945FF.svg?style=for-the-badge&logo=solana&logoColor=white">
 </p>
 
-## Leisure Time
+### Leisure Time
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/homeassistant-18BCF2.svg?style=for-the-badge&logo=homeassistant&logoColor=white">
@@ -74,11 +70,4 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/mqtt-660066.svg?style=for-the-badge&logo=mqtt&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/openmediavault-5DACDF.svg?style=for-the-badge&logo=openmediavault&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white">
-</p>
-
-## Github
-<p align="center">
-  <img style="float: left; height:130px" src="https://github-readme-stats.vercel.app/api?username=christophhu&show_icons=true&theme=dark&hide_title=true" />
-  &nbsp;
-  <img style="float: right; height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christophhu&layout=compact&theme=dark&hide_title=true" />
 </p>
