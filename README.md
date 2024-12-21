@@ -45,11 +45,11 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/mocha-8D6748.svg?style=for-the-badge&logo=mocha&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mongo_db-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/node_js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mongo_db-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-000000.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=E0234E&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nginx-000000.svg?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/node_js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=5FA04E&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/npm-000000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/outline-000000?style=for-the-badge&logo=outline&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/reactivex-000000?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=B7178C&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=swagger&logoColor=white&labelColor=85EA2D&color=000000">
@@ -58,19 +58,19 @@ This Library is a simple calendar component that can be used in any angular proj
 
 ### Blockchain
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/algorand-000000.svg?style=for-the-badge&logo=algorand&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/polkadot-E6007A.svg?style=for-the-badge&logo=polkadot&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/solana-9945FF.svg?style=for-the-badge&logo=solana&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/algorand-000000.svg?style=for-the-badge&logo=algorand&logoColor=white&labelColor=000000&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/polkadot-000000.svg?style=for-the-badge&logo=polkadot&logoColor=white&labelColor=E6007A&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/solana-000000.svg?style=for-the-badge&logo=solana&logoColor=white&labelColor=9945FF&color=000000">
 </p>
 
 ### Leisure Time
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/homeassistant-18BCF2.svg?style=for-the-badge&logo=homeassistant&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/komoot-6AA127.svg?style=for-the-badge&logo=komoot&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mqtt-660066.svg?style=for-the-badge&logo=mqtt&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/openmediavault-5DACDF.svg?style=for-the-badge&logo=openmediavault&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/hackerrank-000000.svg?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/homeassistant-000000.svg?style=for-the-badge&logo=homeassistant&logoColor=white&labelColor=18BCF2&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/komoot-000000.svg?style=for-the-badge&logo=komoot&logoColor=white&labelColor=6AA127&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mqtt-000000.svg?style=for-the-badge&logo=mqtt&logoColor=white&labelColor=660066&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/openmediavault-000000.svg?style=for-the-badge&logo=openmediavault&logoColor=white&labelColor=5DACDF&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/proxmox-000000.svg?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=E57000&color=000000">
 </p>
 
 ## Github
