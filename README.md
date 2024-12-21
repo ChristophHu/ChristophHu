@@ -32,8 +32,8 @@ This Library is a simple calendar component that can be used in any angular proj
 
 ### Used Tools & Frameworks
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Angular-ffffff.svg?style=for-the-badge&logo=angular&logoColor=red">
-  <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-134881.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Angular-000000.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-000000.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white&labelColor=134881&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/dash-008DE4.svg?style=for-the-badge&logo=dash&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
