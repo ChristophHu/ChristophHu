@@ -10,16 +10,16 @@ This Library is a simple calendar component that can be used in any angular proj
 ## Skills
 ### Languages  
 <p align="left"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-000000.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jest-000000.svg?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Redux-000000.svg?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SASS-000000.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3F4F75&color=000000">
 </p>
 
 ### OS
