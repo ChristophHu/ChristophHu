@@ -24,10 +24,10 @@ This Library is a simple calendar component that can be used in any angular proj
 
 ### OS
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/elementary-64BAFF.svg?style=for-the-badge&logo=elementary&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/endeavour_os-7F7FFF.svg?style=for-the-badge&logo=endeavouros&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/debian-000000.svg?style=for-the-badge&logo=debian&logoColor=white&labelColor=A81D33&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/elementary-000000.svg?style=for-the-badge&logo=elementary&logoColor=white&labelColor=64BAFF&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/endeavour_os-000000.svg?style=for-the-badge&logo=endeavouros&logoColor=white&labelColor=7F7FFF&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=macos&logoColor=white&labelColor=000000&color=000000">
 </p>
 
 ### Used Tools & Frameworks
