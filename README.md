@@ -34,7 +34,7 @@ This Library is a simple calendar component that can be used in any angular proj
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-000000.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-000000.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white&labelColor=134881&color=000000">
-  <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-000000.svg?style=for-the-badge&logo=apachecordova&logoColor=white&labelColor=E8E8E8&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-000000.svg?style=for-the-badge&logo=apachecordova&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/dash-0000000.svg?style=for-the-badge&logo=dash&logoColor=white&labelColor=008DE4&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/diagrams.net-000000.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=F08705&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/discord-000000.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=000000">
