@@ -34,17 +34,17 @@ This Library is a simple calendar component that can be used in any angular proj
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/Angular-000000.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-000000.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white&labelColor=134881&color=000000">
-  <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-E8E8E8.svg?style=for-the-badge&logo=apachecordova&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/dash-008DE4.svg?style=for-the-badge&logo=dash&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/githubpages-222222.svg?style=for-the-badge&logo=githubpages&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/googleanalytics-E37400.svg?style=for-the-badge&logo=googleanalytics&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mocha-8D6748.svg?style=for-the-badge&logo=mocha&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-000000.svg?style=for-the-badge&logo=apachecordova&logoColor=white&labelColor=E8E8E8&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/dash-0000000.svg?style=for-the-badge&logo=dash&logoColor=white&labelColor=008DE4&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/diagrams.net-000000.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=F08705&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/discord-000000.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/githubpages-000000.svg?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/googleanalytics-000000.svg?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=e37400&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/jira-000000.svg?style=for-the-badge&logo=jira&logoColor=white&labelColor=0052CC&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mocha-000000.svg?style=for-the-badge&logo=mocha&logoColor=white&labelColor=8D6748&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/mongo_db-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-000000.svg?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=E0234E&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/nginx-000000.svg?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639&color=000000">
