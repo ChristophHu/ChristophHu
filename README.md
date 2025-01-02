@@ -1,6 +1,6 @@
 # Hello, I'm Christoph! 👋
 
-I'm the CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
+I'm CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
 
 ## Actual Projects
 
