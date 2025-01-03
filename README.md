@@ -60,6 +60,7 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/outline-000000?style=for-the-badge&logo=outline&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/reactivex-000000?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=B7178C&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=swagger&logoColor=white&labelColor=85EA2D&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white&labelColor=FABD14&color=000000">
 </p>
 
