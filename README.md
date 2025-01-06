@@ -4,13 +4,13 @@ I'm CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, developer an
 
 ## Actual Projects
 
-### Github-pages-demo
+### Github-pages-demo (completed)
 <a href="https://github.com/christophhu/github-pages-demo"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/github-pages-demo.png" width="300" alt="image" /></a>
 This repository is a dummy and demo application built with Angular 19, showcasing the integration with GitHub's API. It displays user information, repositorie, and other relevant data using Angular components and services. The application is styled using SASS and leverages TailwindCSS for utility-first styling.
 
 All my GithubPages will use this dummy application as a template for future projects.
 
-### NGX-Calendar
+### NGX-Calendar (work in progress)
 <a href="https://github.com/christophhu/ngx-calendar"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" width="300" alt="image" /></a>
 This Library is a simple calendar component that can be used in any angular project. It is a simple calendar component that can be used to display the calendar of any month and year. It also has the ability to select a date and highlight it. The selected date can be used to perform any action like displaying the events of that date or any other action.
 
