@@ -26,7 +26,6 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/SASS-000000.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-000000.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=000000">
-  <img alt="Static Badge" src="https://img.shields.io/badge/plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3F4F75&color=000000">
 </p>
 
 ### OS
@@ -58,6 +57,7 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/node_js-000000.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=5FA04E&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/npm-000000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=CB3837&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/outline-000000?style=for-the-badge&logo=outline&logoColor=white&labelColor=000000&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=white&labelColor=3F4F75&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/reactivex-000000?style=for-the-badge&logo=reactivex&logoColor=white&labelColor=B7178C&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/swagger-000000?style=for-the-badge&logo=swagger&logoColor=white&labelColor=85EA2D&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=06B6D4&color=000000">
