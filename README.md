@@ -20,7 +20,6 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-000000.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E&color=000000">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Jest-000000.svg?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/Redux-000000.svg?style=for-the-badge&logo=redux&logoColor=white&labelColor=764ABC&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/SASS-000000.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=000000">
@@ -48,6 +47,7 @@ This Library is a simple calendar component that can be used in any angular proj
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-000000.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/githubpages-000000.svg?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=222222&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/googleanalytics-000000.svg?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=e37400&color=000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jest-000000.svg?style=for-the-badge&logo=jest&logoColor=white&labelColor=C21325&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/jira-000000.svg?style=for-the-badge&logo=jira&logoColor=white&labelColor=0052CC&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/mocha-000000.svg?style=for-the-badge&logo=mocha&logoColor=white&labelColor=8D6748&color=000000">
