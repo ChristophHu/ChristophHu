@@ -15,6 +15,7 @@ All my GithubPages will use this dummy application as a template for future proj
 This Library is a simple calendar component that can be used in any angular project. It is a simple calendar component that can be used to display the calendar of any month and year. It also has the ability to select a date and highlight it. The selected date can be used to perform any action like displaying the events of that date or any other action.
 
 ### NGX-resizeable (update Angular 19.0.0)
+<a href="https://github.com/christophhu/ngx-calendar"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-resizeable.png" width="300" alt="image" /></a>
 This repository is a demo application built with Angular 19, showcasing a resizable component. The component is built with Angular CDK and allows the user to resize the component by dragging the corners. The component uses a library called `ngx-resizable` which is a wrapper around the Angular CDK. The library also is available on npmjs.com and can be installed.
 
 ## Skills
