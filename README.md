@@ -8,7 +8,7 @@ I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 <a href="https://github.com/christophhu/github-pages-demo"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/github-pages-demo.png" width="260" alt="github-pages-demo" /></a>
 This repository is a dummy and demo application built with Angular 19, showcasing the integration with GitHub's API. It displays user information, repositorie, and other relevant data using Angular components and services. The application is styled using SASS and leverages TailwindCSS for utility-first styling.
 
-All my GithubPages will use this dummy application as a template for future projects.
+All my GithubPages will use this dummy application as a template for future projects. I will create a package and will publish it on npmjs as a central solution.
 
 ### ngx-calendar (work in progress)
 <a href="https://github.com/christophhu/ngx-calendar"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" width="260" alt="ngx-calendar" /></a>
@@ -16,7 +16,7 @@ This Library is a simple calendar component that can be used in any angular proj
 
 ### ngx-resizeable (update Angular 19.0.0)
 <a href="https://github.com/christophhu/ngx-resizeable"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-resizeable.png" width="260" alt="ngx-resizeable" /></a>
-This repository is a demo application built with Angular 19, showcasing a resizable component. The component is built with Angular CDK and allows the user to resize the component by dragging the corners. The component uses a library called `ngx-resizable` which is a wrapper around the Angular CDK. The library also is available on npmjs.com and can be installed.
+This repository is a demo application built with Angular 19, showcasing a resizable component. The component is built with Angular CDK and allows the user to resize the component by dragging the corners. The component uses a library called `ngx-resizable` which is a wrapper around the Angular CDK. The library is built with Angular 19 and published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-resizeable).
 
 ### ngx-drag-n-drop (update Angular 19.0.0)
 <a href="https://github.com/christophhu/ngx-drag-n-drop"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-drag-n-drop.png" width="260" alt="ngx-drag-n-drop" /></a>
@@ -27,8 +27,9 @@ The library is a simple and lightweight Angular directive that allows you to dra
 This repository contains a simple Angular project that demonstrates how to integrate Google Analytics into an Angular application. This will be integrated into the `github-pages-demo` repository to track the user's behavior on the website.
 
 ## Skills
-### Most Experience  
-<p align="left"> 
+### Most Experience
+<p align="left">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Angular-000000.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-000000.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/SASS-000000.svg?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699&color=000000">
@@ -44,7 +45,6 @@ This repository contains a simple Angular project that demonstrates how to integ
 
 ### Used Tools & Frameworks
 <p align="left">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Angular-000000.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/affinity_designer-000000.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white&labelColor=134881&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/apache_cordova-000000.svg?style=for-the-badge&logo=apachecordova&logoColor=white&labelColor=000000&color=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=000000">
