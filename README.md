@@ -23,7 +23,7 @@ This repository is a demo application built with Angular 19, showcasing a resiza
 The library is a simple and lightweight Angular directive that allows you to drag and drop elements in your application. It's very easy to use and can be customized to fit your needs. The library is built with Angular 19 and published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-drag-n-drop).
 
 ### ngx-google-analythics (work in progress)
-<a href="https://github.com/christophhu/ngx-google-analythics"><img align="right" src="https://placehold.co/600x400/000000/FFF?text=ngx-google-analythics" width="260" alt="ngx-google-analythics" /></a>
+<a href="https://github.com/christophhu/ngx-google-analythics"><img align="right" src="https://placehold.co/600x400/202020/FFF?text=ngx-google-analythics" width="260" alt="ngx-google-analythics" /></a>
 This repository contains a simple Angular project that demonstrates how to integrate Google Analytics into an Angular application. This will be integrated into the `github-pages-demo` repository to track the user's behavior on the website.
 
 ## Skills
