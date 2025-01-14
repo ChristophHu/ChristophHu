@@ -1,6 +1,6 @@
 # Hello, I'm Christoph! 👋
 
-I'm CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
+I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
 
 ## Actual Projects
 
@@ -20,7 +20,7 @@ This repository is a demo application built with Angular 19, showcasing a resiza
 
 ### ngx-drag-n-drop (update Angular 19.0.0)
 <a href="https://github.com/christophhu/ngx-drag-n-drop"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-drag-n-drop.png" width="260" alt="ngx-drag-n-drop" /></a>
-The library is a simple and lightweight Angular directive that allows you to drag and drop elements in your application. It's easy to use and can be customized to fit your needs. The library is built with Angular 19.
+The library is a simple and lightweight Angular directive that allows you to drag and drop elements in your application. It's very easy to use and can be customized to fit your needs. The library is built with Angular 19 and published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-drag-n-drop).
 
 ### ngx-google-analythics (work in progress)
 <a href="https://github.com/christophhu/ngx-google-analythics"><img align="right" src="https://placehold.co/600x400/000000/FFF?text=ngx-google-analythics" width="260" alt="ngx-google-analythics" /></a>
