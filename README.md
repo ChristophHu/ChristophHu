@@ -5,25 +5,25 @@ I'm CEO of [NXT.codes](https://github.com/nxt-codes), a consultant, developer an
 ## Actual Projects
 
 ### <span style="color: red;">github-pages-demo (completed)</span>
-<a href="https://github.com/christophhu/github-pages-demo"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/github-pages-demo.png" width="300" alt="github-pages-demo" /></a>
+<a href="https://github.com/christophhu/github-pages-demo"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/github-pages-demo.png" width="260" alt="github-pages-demo" /></a>
 This repository is a dummy and demo application built with Angular 19, showcasing the integration with GitHub's API. It displays user information, repositorie, and other relevant data using Angular components and services. The application is styled using SASS and leverages TailwindCSS for utility-first styling.
 
 All my GithubPages will use this dummy application as a template for future projects.
 
 ### ngx-calendar (work in progress)
-<a href="https://github.com/christophhu/ngx-calendar"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" width="300" alt="ngx-calendar" /></a>
+<a href="https://github.com/christophhu/ngx-calendar"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-calendar.png" width="260" alt="ngx-calendar" /></a>
 This Library is a simple calendar component that can be used in any angular project. It is a simple calendar component that can be used to display the calendar of any month and year. It also has the ability to select a date and highlight it. The selected date can be used to perform any action like displaying the events of that date or any other action.
 
 ### ngx-resizeable (update Angular 19.0.0)
-<a href="https://github.com/christophhu/ngx-resizeable"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-resizeable.png" width="300" alt="ngx-resizeable" /></a>
+<a href="https://github.com/christophhu/ngx-resizeable"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-resizeable.png" width="260" alt="ngx-resizeable" /></a>
 This repository is a demo application built with Angular 19, showcasing a resizable component. The component is built with Angular CDK and allows the user to resize the component by dragging the corners. The component uses a library called `ngx-resizable` which is a wrapper around the Angular CDK. The library also is available on npmjs.com and can be installed.
 
 ### ngx-drag-n-drop (update Angular 19.0.0)
-<a href="https://github.com/christophhu/ngx-drag-n-drop"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-drag-n-drop.png" width="300" alt="ngx-drag-n-drop" /></a>
+<a href="https://github.com/christophhu/ngx-drag-n-drop"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-drag-n-drop.png" width="260" alt="ngx-drag-n-drop" /></a>
 The library is a simple and lightweight Angular directive that allows you to drag and drop elements in your application. It's easy to use and can be customized to fit your needs. The library is built with Angular 19.
 
 ### ngx-google-analythics (work in progress)
-<a href="https://github.com/christophhu/ngx-google-analythics"><img align="right" src="https://placehold.co/600x400/000000/FFF?text=ngx-google-analythics" width="300" alt="ngx-google-analythics" /></a>
+<a href="https://github.com/christophhu/ngx-google-analythics"><img align="right" src="https://placehold.co/600x400/000000/FFF?text=ngx-google-analythics" width="260" alt="ngx-google-analythics" /></a>
 This repository contains a simple Angular project that demonstrates how to integrate Google Analytics into an Angular application. This will be integrated into the `github-pages-demo` repository to track the user's behavior on the website.
 
 ## Skills
