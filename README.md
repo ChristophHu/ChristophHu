@@ -23,7 +23,7 @@ Basically all new and updated repositories will get a demo application inside th
 <a href="https://github.com/christophhu/ngx-debug-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-debug-mode.png" width="200" alt="ngx-log-mode" /></a>
 [The ngx-debug-mode Repository](https://github.com/christophhu/ngx-debug-mode) is a demo application of the ngx-debug-mode library. The library adds a simple toggle-component. So you can switch to hide or show all elements in your application. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-debug-mode).
 
-### ngx-log-mode (19.2.0)
+### [ngx-log-mode (19.2.0)](https://github.com/christophhu/ngx-log-mode)
 <a href="https://github.com/christophhu/ngx-log-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-log-mode.png" width="200" alt="ngx-log-mode" /></a>
 [The ngx-log-mode Repository](https://github.com/christophhu/ngx-log-mode) is a demo application of the ngx-log-mode library. The library adds a simple toggle-component to activate or deactivate the log-mode of your application. It is possible to configure the log-level and log-mode (console, localstorage, sessionstorage or webAPI). The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-log-mode).
 
