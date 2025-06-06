@@ -9,26 +9,26 @@ Basically all new and updated repositories will get a demo application inside th
 
 ### ngx-components (19.2.0)
 <a href="https://github.com/christophhu/ngx-components"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-components.png" width="200" alt="ngx-components" /></a>
-This Repository is a demo application for the ngx-components library. The library will share all custom components.
+[This Repository](https://github.com/christophhu/ngx-components) is a demo application for the ngx-components library. The library will share all custom components.
 
 ### ngx-notifications (19.2.0)
 <a href="https://github.com/christophhu/ngx-notifications"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-notifications.gif" width="200" alt="ngx-notifications" /></a>
-This Repository is a demo application for the ngx-notifications library. The library adds notifications to your Angular application. It provides a simple API to create notifications with different types (info, success, warning, error) and positions (top-right, top-left, bottom-right, bottom-left). The The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-notifications).
+[The ngx-notifications Repository](https://github.com/christophhu/ngx-notifications) is a demo application for the ngx-notifications library. The library adds notifications to your Angular application. It provides a simple API to create notifications with different types (info, success, warning, error) and positions (top-right, top-left, bottom-right, bottom-left). The The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-notifications).
 
 ### ngx-dark-mode (19.2.0)
 <a href="https://github.com/christophhu/ngx-dark-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-dark-mode.gif" width="200" alt="ngx-dark-mode" /></a>
-This Repository contains a simple Angular library for toggling between light and dark mode. It is designed to be easy to use and integrate into any Angular application. It uses the localStorage API to save the user's preference for dark mode, so that the setting persists across page reloads. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-dark-mode).
+[The ngx-dark-mode Repository](https://github.com/christophhu/ngx-dark-mode) contains a simple Angular library for toggling between light and dark mode. It is designed to be easy to use and integrate into any Angular application. It uses the localStorage API to save the user's preference for dark mode, so that the setting persists across page reloads. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-dark-mode).
 
 ### ngx-debug-mode (19.2.1)
 <a href="https://github.com/christophhu/ngx-debug-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-debug-mode.png" width="200" alt="ngx-log-mode" /></a>
-The ngx-debug-mode repostory is a demo application of the ngx-debug-mode library. The library adds a simple toggle-component. So you can switch to hide or show all elements in your application. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-debug-mode).
+[The ngx-debug-mode Repository](https://github.com/christophhu/ngx-debug-mode) is a demo application of the ngx-debug-mode library. The library adds a simple toggle-component. So you can switch to hide or show all elements in your application. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-debug-mode).
 
 ### ngx-log-mode (19.2.0)
 <a href="https://github.com/christophhu/ngx-log-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-log-mode.png" width="200" alt="ngx-log-mode" /></a>
-The ngx-log-mode repostory is a demo application of the ngx-log-mode library. The library adds a simple toggle-component to activate or deactivate the log-mode of your application. It is possible to configure the log-level and log-mode (console, localstorage, sessionstorage or webAPI). The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-log-mode).
+[The ngx-log-mode Repository](https://github.com/christophhu/ngx-log-mode) is a demo application of the ngx-log-mode library. The library adds a simple toggle-component to activate or deactivate the log-mode of your application. It is possible to configure the log-level and log-mode (console, localstorage, sessionstorage or webAPI). The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-log-mode).
 
 ### ngx-icons (19.1.0)
-The ngx-icons repostory is a demo application of the ngx-icons library. The library adds a simple component to display your custom icons. It is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-icons).
+[The ngx-icons Repository](https://github.com/christophhu/ngx-icons) is a demo application of the ngx-icons library. The library adds a simple component to display your custom icons. It is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-icons).
 
 ## Skills
 ### Most Experience
