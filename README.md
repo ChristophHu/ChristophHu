@@ -28,7 +28,6 @@ The ngx-debug-mode repostory is a demo application of the ngx-debug-mode library
 The ngx-log-mode repostory is a demo application of the ngx-log-mode library. The library adds a simple toggle-component to activate or deactivate the log-mode of your application. It is possible to configure the log-level and log-mode (console, localstorage, sessionstorage or webAPI). The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-log-mode).
 
 ### ngx-icons (19.1.0)
-<a href="https://github.com/christophhu/ngx-log-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-log-mode.png" width="200" alt="ngx-log-mode" /></a>
 The ngx-icons repostory is a demo application of the ngx-icons library. The library adds a simple component to display your custom icons. It is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-icons).
 
 ## Skills
