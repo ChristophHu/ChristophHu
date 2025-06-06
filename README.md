@@ -7,19 +7,29 @@ I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 I'm currently working on several projects und updateing my repositories to Angular 19.2.0 and Tailwind CSS 4.1.4.
 Basically all new and updated repositories will get a demo application inside the same structure of my [github-pages-demo](https://github.com/christophhu/github-pages-demo) to showcase the functionality of the repository.
 
-### ngx-github-pages-demo (19.2.8)
-<a href="https://github.com/christophhu/github-pages-demo"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/github-pages-demo.png" width="200" alt="github-pages-demo" /></a>
-This repository is a demo application, showcasing the integration with GitHub's API. It displays user information, repositorie, and other relevant data using Angular components and services. The application is styled using SASS and leverages TailwindCSS for utility-first styling.
+### ngx-components (19.2.0)
+<a href="https://github.com/christophhu/ngx-components"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-components.png" width="200" alt="ngx-components" /></a>
+This Repository is a demo application for the ngx-components library. The library will share all custom components.
 
-All my GithubPages will use this dummy application as a template. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-github-pages-demo).
+### ngx-notifications (19.2.0)
+<a href="https://github.com/christophhu/ngx-notifications"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-notifications.gif" width="200" alt="ngx-notifications" /></a>
+This Repository is a demo application for the ngx-notifications library. The library adds notifications to your Angular application. It provides a simple API to create notifications with different types (info, success, warning, error) and positions (top-right, top-left, bottom-right, bottom-left). The The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-notifications).
+
+### ngx-dark-mode (19.2.0)
+<a href="https://github.com/christophhu/ngx-dark-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-dark-mode.gif" width="200" alt="ngx-dark-mode" /></a>
+This Repository contains a simple Angular library for toggling between light and dark mode. It is designed to be easy to use and integrate into any Angular application. It uses the localStorage API to save the user's preference for dark mode, so that the setting persists across page reloads. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-dark-mode).
+
+### ngx-debug-mode (19.2.1)
+<a href="https://github.com/christophhu/ngx-debug-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-debug-mode.png" width="200" alt="ngx-log-mode" /></a>
+The ngx-debug-mode repostory is a demo application of the ngx-debug-mode library. The library adds a simple toggle-component. So you can switch to hide or show all elements in your application. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-debug-mode).
 
 ### ngx-log-mode (19.2.0)
 <a href="https://github.com/christophhu/ngx-log-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-log-mode.png" width="200" alt="ngx-log-mode" /></a>
 The ngx-log-mode repostory is a demo application of the ngx-log-mode library. The library adds a simple toggle-component to activate or deactivate the log-mode of your application. It is possible to configure the log-level and log-mode (console, localstorage, sessionstorage or webAPI). The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-log-mode).
 
-### ngx-debug-mode (19.2.1)
-<a href="https://github.com/christophhu/ngx-debug-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-debug-mode.png" width="200" alt="ngx-log-mode" /></a>
-The ngx-debug-mode repostory is a demo application of the ngx-debug-mode library. The library adds a simple toggle-component. So you can switch to hide or show all elements in your application. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-debug-mode).
+### ngx-icons (19.1.0)
+<a href="https://github.com/christophhu/ngx-log-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-log-mode.png" width="200" alt="ngx-log-mode" /></a>
+The ngx-icons repostory is a demo application of the ngx-icons library. The library adds a simple component to display your custom icons. It is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-icons).
 
 ## Skills
 ### Most Experience
