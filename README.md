@@ -23,11 +23,11 @@ This contains a simple Angular library for toggling between light and dark mode.
 <a href="https://github.com/christophhu/ngx-debug-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-debug-mode.png" width="200" alt="ngx-log-mode" /></a>
 This is a demo application of the ngx-debug-mode library. The library adds a simple toggle-component. So you can switch to hide or show all elements in your application. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-debug-mode).
 
-### [ngx-log-mode (20.3.1)](https://github.com/christophhu/ngx-log-mode)
+### [ngx-log-mode (19.2.0)](https://github.com/christophhu/ngx-log-mode)
 <a href="https://github.com/christophhu/ngx-log-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-log-mode.png" width="200" alt="ngx-log-mode" /></a>
 This is a demo application of the ngx-log-mode library. The library adds a simple toggle-component to activate or deactivate the log-mode of your application. It is possible to configure the log-level and log-mode (console, localstorage, sessionstorage or webAPI). The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-log-mode).
 
-### [ngx-icons (19.1.0)](https://github.com/christophhu/ngx-icons)
+### [ngx-icons (20.3.^)](https://github.com/christophhu/ngx-icons)
 This is a demo application of the ngx-icons library. The library adds a simple component to display your custom icons. It is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-icons).
 
 ## Skills
