@@ -11,14 +11,14 @@ I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 </div>
 
 ### Inline-style (grid)
-<div style="display: grid; grid-template-columns: 2;">
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));">
   <div>1</div>
   <div>2</div>
   <div>3</div>
 </div>
 
 ### Inline-style (flex)
-<div style="display: flex; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
   <div>1</div>
   <div>2</div>
   <div>3</div>
