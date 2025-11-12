@@ -20,6 +20,24 @@ I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
   </div>
 </div>
 
+### CGPT II
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <div style="flex: 1 1 300px; min-width: 250px; background: #f5f5f5; padding: 1rem; border-radius: 10px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <h3>🧩 Spalte 1</h3>
+    <p>Dies ist die erste Spalte. Sie enthält beliebigen Text, Listen oder Bilder. Auf großen Bildschirmen steht sie links, auf kleinen Bildschirmen rutscht sie automatisch nach oben.</p>
+    <img src="https://placekitten.com/400/250" alt="Beispielbild"
+         style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" />
+  </div>
+
+  <div style="flex: 1 1 300px; min-width: 250px; background: #eaeaea; padding: 1rem; border-radius: 10px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+    <h3>⚙️ Spalte 2</h3>
+    <p>Dies ist die zweite Spalte. Sie passt sich ebenfalls der verfügbaren Breite an. Wenn der Bildschirm schmal wird, erscheint sie automatisch unter der ersten Spalte.</p>
+    <img src="https://placehold.co/400x250/ddd/555?text=Responsive+Image"
+         alt="Beispielbild"
+         style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" />
+  </div>
+</div>
+
 ### Inline-style (grid)
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));">
   <div>1</div>
