@@ -4,10 +4,20 @@ I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 
 ## Responsice Test
 ### Scrollable Table
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; max-width: 100%;">
 | Spalte 1 | Spalte 2 | Spalte 3 |
 |-----------|-----------|-----------|
 | Inhalt 1  | Inhalt 2  | Inhalt 3  |
+</div>
+
+### CGPT
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <div style="flex: 1 1 250px; background: #eee; padding: 1rem;">
+    <strong>Spalte 1</strong><br>Inhalt A
+  </div>
+  <div style="flex: 1 1 250px; background: #ddd; padding: 1rem;">
+    <strong>Spalte 2</strong><br>Inhalt B
+  </div>
 </div>
 
 ### Inline-style (grid)
