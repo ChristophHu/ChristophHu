@@ -2,6 +2,28 @@
 
 I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
 
+## Responsice Test
+### Scrollable Table
+<div style="overflow-x: auto;">
+| Spalte 1 | Spalte 2 | Spalte 3 |
+|-----------|-----------|-----------|
+| Inhalt 1  | Inhalt 2  | Inhalt 3  |
+</div>
+
+### Inline-style (grid)
+<div style="display: grid; grid-template-columns: 2;">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>
+
+### Inline-style (flex)
+<div style="display: flex; flex-wrap: wrap;">
+  <div>1</div>
+  <div>2</div>
+  <div>3</div>
+</div>
+
 ## Actual Projects
 
 I'm currently working on several projects und updateing my repositories to Angular 19.2.0 and Tailwind CSS 4.1.4.
