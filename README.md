@@ -19,6 +19,18 @@ This repository is a demo application built with Angular 20, showcasing the usag
 
 <a href="https://github.com/christophhu/ngx-timeline"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-timeline.png" alt="ngx-timeline" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" /></a>
 
+### [ngx-drawer (20.3.1)](https://github.com/christophhu/ngx-drawer)
+
+This repository contains an Angular 20 demo that showcases the `ngx-drawer` library. `ngx-drawer` provides a flexible side drawer for Angular apps, supporting left/right positions and over/side modes. It’s easy to customize—sizes, colors, and behavior—to match your application’s design. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-drawer).
+
+<a href="https://github.com/christophhu/ngx-drawer"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-drawer.png" alt="ngx-drawer" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" /></a>
+
+### [ngx-datatable (20.3.0)](https://github.com/christophhu/ngx-datatable)
+
+This repository contains an Angular 20 demo that showcases the `ngx-datatable` library. `ngx-datatable` provides a flexible table for Angular apps. It’s easy to customize—sizes, colors, and behavior—to match your application’s design. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-datatable).
+
+<a href="https://github.com/christophhu/ngx-datatable"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-datatable.png" alt="ngx-datatable" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" /></a>
+
 ### [ngx-components (19.2.0)](https://github.com/christophhu/ngx-components)
 <a href="https://github.com/christophhu/ngx-components"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-components.png" width="200" alt="ngx-components" /></a>
 This is a demo application for the ngx-components library. The library will share all custom components.
