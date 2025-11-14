@@ -4,8 +4,9 @@ I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, develope
 
 ## Actual Projects
 
-I'm currently working on several projects und updateing my repositories to Angular 19.2.0 and Tailwind CSS 4.1.4.
+I'm currently working on several projects und updateing my repositories to Angular 20.3.0 and Tailwind CSS 4.1.16.
 Basically all new and updated repositories will get a demo application inside the same structure of my [github-pages-demo](https://github.com/christophhu/github-pages-demo) to showcase the functionality of the repository.
+<b>Important: All repositories are open source and free to use under the MIT license!!!</b>
 
 ### [ngx-code-representation (20.3.1)](https://github.com/christophhu/ngx-code-representation)
 
