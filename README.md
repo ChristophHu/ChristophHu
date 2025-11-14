@@ -2,60 +2,16 @@
 
 I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
 
-## Responsice Test
-### Scrollable Table
-<div style="overflow-x: auto; max-width: 100%;">
-| Spalte 1 | Spalte 2 | Spalte 3 |
-|-----------|-----------|-----------|
-| Inhalt 1  | Inhalt 2  | Inhalt 3  |
-</div>
-
-### CGPT
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <div style="flex: 1 1 250px; background: #eee; padding: 1rem;">
-    <strong>Spalte 1</strong><br>Inhalt A
-  </div>
-  <div style="flex: 1 1 250px; background: #ddd; padding: 1rem;">
-    <strong>Spalte 2</strong><br>Inhalt B
-  </div>
-</div>
-
-### CGPT II
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <div style="flex: 1 1 300px; min-width: 250px; background: #f5f5f5; padding: 1rem; border-radius: 10px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
-    <h3>🧩 Spalte 1</h3>
-    <p>Dies ist die erste Spalte. Sie enthält beliebigen Text, Listen oder Bilder. Auf großen Bildschirmen steht sie links, auf kleinen Bildschirmen rutscht sie automatisch nach oben.</p>
-    <img src="https://placekitten.com/400/250" alt="Beispielbild"
-         style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" />
-  </div>
-
-  <div style="flex: 1 1 300px; min-width: 250px; background: #eaeaea; padding: 1rem; border-radius: 10px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
-    <h3>⚙️ Spalte 2</h3>
-    <p>Dies ist die zweite Spalte. Sie passt sich ebenfalls der verfügbaren Breite an. Wenn der Bildschirm schmal wird, erscheint sie automatisch unter der ersten Spalte.</p>
-    <img src="https://placehold.co/400x250/ddd/555?text=Responsive+Image"
-         alt="Beispielbild"
-         style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" />
-  </div>
-</div>
-
-### Inline-style (grid)
-<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));">
-  <div>1</div>
-  <div>2</div>
-  <div>3</div>
-</div>
-
-### Inline-style (flex)
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <div>1</div>
-  <div>2</div>
-  <div>3</div>
-</div>
-
 ## Actual Projects
 
 I'm currently working on several projects und updateing my repositories to Angular 19.2.0 and Tailwind CSS 4.1.4.
 Basically all new and updated repositories will get a demo application inside the same structure of my [github-pages-demo](https://github.com/christophhu/github-pages-demo) to showcase the functionality of the repository.
+
+### [ngx-code-representation (20.3.1)](https://github.com/christophhu/ngx-code-representation)
+
+This repository contains an Angular 20 demo that showcases the `ngx-code-representation` library. `ngx-code-representation` provides a representation of code with highlightjs for Angular apps. It’s easy to customize—sizes, colors, and behavior—to match your application’s design.
+
+<a href="https://github.com/christophhu/ngx-code-representation"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-code-representation.png" alt="ngx-code-representation" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" /></a>
 
 ### [ngx-components (19.2.0)](https://github.com/christophhu/ngx-components)
 <a href="https://github.com/christophhu/ngx-components"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-components.png" width="200" alt="ngx-components" /></a>
