@@ -9,9 +9,23 @@ Basically all new and updated repositories will get a demo application inside th
 
 ### [ngx-code-representation (20.3.1)](https://github.com/christophhu/ngx-code-representation)
 
-This repository contains an Angular 20 demo that showcases the `ngx-code-representation` library. `ngx-code-representation` provides a representation of code with highlightjs for Angular apps. It’s easy to customize—sizes, colors, and behavior—to match your application’s design.
+This repository contains an Angular 20 demo that showcases the `ngx-code-representation` library. `ngx-code-representation` provides a representation of code with highlightjs for Angular apps. It’s easy to customize—sizes, colors, and behavior—to match your application’s design. The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-code-representation).
 
 <a href="https://github.com/christophhu/ngx-code-representation"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-code-representation.png" alt="ngx-code-representation" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" /></a>
+
+| Version | Date | State | NPM Link | GitHub Link | Demo |
+|--------:|------|--------|----------|--------------|------|
+| 20.3.1   | 14.11.2025 | beta | [https://www.npmjs.com/](https://www.npmjs.com/package/@christophhu/ngx-code-representationL) | [https://github.com/](https://github.com/ChristophHu/ngx-code-representation) | coming soon |
+
+### [ngx-timeline (20.3.0)](https://github.com/christophhu/ngx-timeline)
+
+This repository is a demo application built with Angular 20, showcasing the usage of the `ngx-timeline` library. The library provides a collection of timeline components that can be used in Angular applications. The components are available in different styles and can be easily customized to fit the design of your application. The library will be published at npmjs soon.
+
+<a href="https://github.com/christophhu/ngx-timeline"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-timeline.png" alt="ngx-timeline" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" /></a>
+
+| Version | Date | State | NPM Link | GitHub Link | Demo |
+|--------:|------|--------|----------|--------------|------|
+| 20.3.0   | 14.11.2025 | development | [@npmjs](https://www.npmjs.com/package/@christophhu/ngx-code-representationL) | [@github](https://github.com/ChristophHu/ngx-code-representation) | coming soon |
 
 ### [ngx-components (19.2.0)](https://github.com/christophhu/ngx-components)
 <a href="https://github.com/christophhu/ngx-components"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-components.png" width="200" alt="ngx-components" /></a>
@@ -19,7 +33,7 @@ This is a demo application for the ngx-components library. The library will shar
 
 ### [ngx-notifications (19.2.0)](https://github.com/christophhu/ngx-notifications)
 <a href="https://github.com/christophhu/ngx-notifications"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-notifications.gif" width="200" alt="ngx-notifications" /></a>
-This is a demo application for the ngx-notifications library. The library adds notifications to your Angular application. It provides a simple API to create notifications with different types (info, success, warning, error) and positions (top-right, top-left, bottom-right, bottom-left). The The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-notifications).
+This is a demo application for the ngx-notifications library. The library adds notifications to your Angular application. It provides a simple API to create notifications with different types (info, success, warning, error) and positions (top-right, top-left, bottom-right, bottom-left). The library is published at [npmjs](https://www.npmjs.com/package/@christophhu/ngx-notifications).
 
 ### [ngx-dark-mode (19.2.0)](https://github.com/christophhu/ngx-dark-mode)
 <a href="https://github.com/christophhu/ngx-dark-mode"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-dark-mode.gif" width="200" alt="ngx-dark-mode" /></a>
