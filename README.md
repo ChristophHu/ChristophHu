@@ -1,11 +1,11 @@
 # Hello, I'm Christoph! 👋
 
-I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code and design.
+I'm founder of [NXT.codes](https://github.com/nxt-codes), a consultant, developer and data scientist from Berlin. I have rich experience in Angular, NestJS and Tailwind CSS, and I love to code.
 
 ## Actual Projects
 
 I'm currently working on several projects und updateing my repositories to Angular 20.3.0 and Tailwind CSS 4.1.16.
-Basically all new and updated repositories will get a demo application inside the same structure of my [github-pages-demo](https://github.com/christophhu/github-pages-demo) to showcase the functionality of the repository.
+Basically all new and updated repositories will get a demo application inside the same structure of my [github-pages-demo](https://github.com/christophhu/github-pages-demo) to showcase the functionality of the repository.<br>
 <b>Important: All repositories are open source and free to use under the MIT license!!!</b>
 
 ### [ngx-code-representation (20.3.1)](https://github.com/christophhu/ngx-code-representation)
