@@ -23,9 +23,28 @@ This repository is a demo application built with Angular 20, showcasing the usag
 
 <a href="https://github.com/christophhu/ngx-timeline"><img src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-timeline.png" alt="ngx-timeline" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;" /></a>
 
-| Version | Date | State | NPM Link | GitHub Link | Demo |
-|--------:|------|--------|----------|--------------|------|
-| 20.3.0   | 14.11.2025 | development | [@npmjs](https://www.npmjs.com/package/@christophhu/ngx-code-representationL) | [@github](https://github.com/ChristophHu/ngx-code-representation) | coming soon |
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th>Version</th>
+      <th>Date</th>
+      <th>State</th>
+      <th>NPM Link</th>
+      <th>GitHub Link</th>
+      <th>Demo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>20.3.0</td>
+      <td>14.11.2025</td>
+      <td>development</td>
+      <td><a href="https://www.npmjs.com/package/@christophhu/ngx-code-representation">npmjs</a></td>
+      <td><a href="https://github.com/ChristophHu/ngx-code-representation">GitHub</a></td>
+      <td>coming soon</td>
+    </tr>
+  </tbody>
+</table>
 
 ### [ngx-components (19.2.0)](https://github.com/christophhu/ngx-components)
 <a href="https://github.com/christophhu/ngx-components"><img align="right" src="https://github.com/ChristophHu/ChristophHu/blob/main/assets/img/ngx-components.png" width="200" alt="ngx-components" /></a>
